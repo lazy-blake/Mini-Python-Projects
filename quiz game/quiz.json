@@ -1,0 +1,605 @@
+{
+  "quiz": [
+    {
+      "question": "What gas do plants absorb from the atmosphere?",
+      "options": {
+        "a": "Oxygen",
+        "b": "Carbon Dioxide",
+        "c": "Nitrogen",
+        "d": "Hydrogen"
+      },
+      "answer": "b",
+      "category": "Science",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which organ is responsible for pumping blood?",
+      "options": {
+        "a": "Lungs",
+        "b": "Brain",
+        "c": "Heart",
+        "d": "Liver"
+      },
+      "answer": "c",
+      "category": "Science",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the chemical symbol for gold?",
+      "options": {
+        "a": "Au",
+        "b": "Ag",
+        "c": "Gd",
+        "d": "Go"
+      },
+      "answer": "a",
+      "category": "Science",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Which part of the plant conducts photosynthesis?",
+      "options": {
+        "a": "Root",
+        "b": "Stem",
+        "c": "Leaf",
+        "d": "Flower"
+      },
+      "answer": "c",
+      "category": "Science",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which planet is known for its rings?",
+      "options": {
+        "a": "Mars",
+        "b": "Earth",
+        "c": "Jupiter",
+        "d": "Saturn"
+      },
+      "answer": "d",
+      "category": "Science",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is H2O commonly known as?",
+      "options": {
+        "a": "Hydrogen Peroxide",
+        "b": "Water",
+        "c": "Salt",
+        "d": "Ammonia"
+      },
+      "answer": "b",
+      "category": "Science",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the powerhouse of the cell?",
+      "options": {
+        "a": "Nucleus",
+        "b": "Mitochondria",
+        "c": "Ribosome",
+        "d": "Chloroplast"
+      },
+      "answer": "b",
+      "category": "Science",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Which vitamin is produced when skin is exposed to sunlight?",
+      "options": {
+        "a": "Vitamin A",
+        "b": "Vitamin B",
+        "c": "Vitamin C",
+        "d": "Vitamin D"
+      },
+      "answer": "d",
+      "category": "Science",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What gas do humans exhale?",
+      "options": {
+        "a": "Oxygen",
+        "b": "Carbon Dioxide",
+        "c": "Hydrogen",
+        "d": "Nitrogen"
+      },
+      "answer": "b",
+      "category": "Science",
+      "difficulty": "easy"
+    },
+    {
+      "question": "How many bones are in the adult human body?",
+      "options": {
+        "a": "206",
+        "b": "201",
+        "c": "210",
+        "d": "205"
+      },
+      "answer": "a",
+      "category": "Science",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Who painted 'Starry Night'?",
+      "options": {
+        "a": "Leonardo da Vinci",
+        "b": "Vincent van Gogh",
+        "c": "Claude Monet",
+        "d": "Pablo Picasso"
+      },
+      "answer": "b",
+      "category": "Art",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which artist is known for Cubism?",
+      "options": {
+        "a": "Picasso",
+        "b": "Rembrandt",
+        "c": "Michelangelo",
+        "d": "Van Gogh"
+      },
+      "answer": "a",
+      "category": "Art",
+      "difficulty": "hard"
+    },
+    {
+      "question": "'The Scream' was painted by?",
+      "options": {
+        "a": "Munch",
+        "b": "Monet",
+        "c": "Da Vinci",
+        "d": "C\u00e9zanne"
+      },
+      "answer": "a",
+      "category": "Art",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Which museum holds the Mona Lisa?",
+      "options": {
+        "a": "The Louvre",
+        "b": "MoMA",
+        "c": "The British Museum",
+        "d": "Vatican Museums"
+      },
+      "answer": "a",
+      "category": "Art",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Who painted the ceiling of the Sistine Chapel?",
+      "options": {
+        "a": "Raphael",
+        "b": "Michelangelo",
+        "c": "Donatello",
+        "d": "Titian"
+      },
+      "answer": "b",
+      "category": "Art",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Which artist cut off part of his ear?",
+      "options": {
+        "a": "Van Gogh",
+        "b": "Michelangelo",
+        "c": "Picasso",
+        "d": "Rembrandt"
+      },
+      "answer": "a",
+      "category": "Art",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Famous sculpture of 'David' was created by?",
+      "options": {
+        "a": "Donatello",
+        "b": "Michelangelo",
+        "c": "Bernini",
+        "d": "Rodin"
+      },
+      "answer": "b",
+      "category": "Art",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which style is Salvador Dal\u00ed known for?",
+      "options": {
+        "a": "Cubism",
+        "b": "Surrealism",
+        "c": "Impressionism",
+        "d": "Realism"
+      },
+      "answer": "b",
+      "category": "Art",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the primary color in art?",
+      "options": {
+        "a": "Green",
+        "b": "Red",
+        "c": "Black",
+        "d": "Brown"
+      },
+      "answer": "b",
+      "category": "Art",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which artist painted water lilies?",
+      "options": {
+        "a": "Monet",
+        "b": "Manet",
+        "c": "Matisse",
+        "d": "Modigliani"
+      },
+      "answer": "a",
+      "category": "Art",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is 7 x 8?",
+      "options": {
+        "a": "54",
+        "b": "56",
+        "c": "58",
+        "d": "64"
+      },
+      "answer": "b",
+      "category": "Math",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the square root of 81?",
+      "options": {
+        "a": "7",
+        "b": "8",
+        "c": "9",
+        "d": "10"
+      },
+      "answer": "c",
+      "category": "Math",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What is the value of pi (approx)?",
+      "options": {
+        "a": "3.12",
+        "b": "3.14",
+        "c": "3.16",
+        "d": "3.18"
+      },
+      "answer": "b",
+      "category": "Math",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What is 100 divided by 4?",
+      "options": {
+        "a": "20",
+        "b": "25",
+        "c": "30",
+        "d": "40"
+      },
+      "answer": "b",
+      "category": "Math",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is 2 to the power of 5?",
+      "options": {
+        "a": "32",
+        "b": "16",
+        "c": "64",
+        "d": "48"
+      },
+      "answer": "a",
+      "category": "Math",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the result of 9 squared?",
+      "options": {
+        "a": "81",
+        "b": "72",
+        "c": "90",
+        "d": "99"
+      },
+      "answer": "a",
+      "category": "Math",
+      "difficulty": "medium"
+    },
+    {
+      "question": "If a triangle has angles 90\u00b0, 45\u00b0, what's the third?",
+      "options": {
+        "a": "35\u00b0",
+        "b": "55\u00b0",
+        "c": "45\u00b0",
+        "d": "90\u00b0"
+      },
+      "answer": "c",
+      "category": "Math",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is 15% of 200?",
+      "options": {
+        "a": "30",
+        "b": "25",
+        "c": "35",
+        "d": "40"
+      },
+      "answer": "a",
+      "category": "Math",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Which number is a prime?",
+      "options": {
+        "a": "6",
+        "b": "9",
+        "c": "13",
+        "d": "15"
+      },
+      "answer": "c",
+      "category": "Math",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What is the next number in the sequence: 2, 4, 8, 16...?",
+      "options": {
+        "a": "32",
+        "b": "24",
+        "c": "30",
+        "d": "36"
+      },
+      "answer": "a",
+      "category": "Math",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which museum holds the Mona Lisa?",
+      "options": {
+        "a": "The Louvre",
+        "b": "MoMA",
+        "c": "The British Museum",
+        "d": "Vatican Museums"
+      },
+      "answer": "a",
+      "category": "Art",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the powerhouse of the cell?",
+      "options": {
+        "a": "Nucleus",
+        "b": "Mitochondria",
+        "c": "Ribosome",
+        "d": "Chloroplast"
+      },
+      "answer": "b",
+      "category": "Science",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What is the result of 9 squared?",
+      "options": {
+        "a": "81",
+        "b": "72",
+        "c": "90",
+        "d": "99"
+      },
+      "answer": "a",
+      "category": "Math",
+      "difficulty": "medium"
+    },
+    {
+      "question": "If a triangle has angles 90\u00b0, 45\u00b0, what's the third?",
+      "options": {
+        "a": "35\u00b0",
+        "b": "55\u00b0",
+        "c": "45\u00b0",
+        "d": "90\u00b0"
+      },
+      "answer": "c",
+      "category": "Math",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the primary color in art?",
+      "options": {
+        "a": "Green",
+        "b": "Red",
+        "c": "Black",
+        "d": "Brown"
+      },
+      "answer": "b",
+      "category": "Art",
+      "difficulty": "medium"
+    },
+    {
+      "question": "How many bones are in the adult human body?",
+      "options": {
+        "a": "206",
+        "b": "201",
+        "c": "210",
+        "d": "205"
+      },
+      "answer": "a",
+      "category": "Science",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is H2O commonly known as?",
+      "options": {
+        "a": "Hydrogen Peroxide",
+        "b": "Water",
+        "c": "Salt",
+        "d": "Ammonia"
+      },
+      "answer": "b",
+      "category": "Science",
+      "difficulty": "medium"
+    },
+    {
+      "question": "If a triangle has angles 90\u00b0, 45\u00b0, what's the third?",
+      "options": {
+        "a": "35\u00b0",
+        "b": "55\u00b0",
+        "c": "45\u00b0",
+        "d": "90\u00b0"
+      },
+      "answer": "c",
+      "category": "Math",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which artist cut off part of his ear?",
+      "options": {
+        "a": "Van Gogh",
+        "b": "Michelangelo",
+        "c": "Picasso",
+        "d": "Rembrandt"
+      },
+      "answer": "a",
+      "category": "Art",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which artist cut off part of his ear?",
+      "options": {
+        "a": "Van Gogh",
+        "b": "Michelangelo",
+        "c": "Picasso",
+        "d": "Rembrandt"
+      },
+      "answer": "a",
+      "category": "Art",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is 2 to the power of 5?",
+      "options": {
+        "a": "32",
+        "b": "16",
+        "c": "64",
+        "d": "48"
+      },
+      "answer": "a",
+      "category": "Math",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the chemical symbol for gold?",
+      "options": {
+        "a": "Au",
+        "b": "Ag",
+        "c": "Gd",
+        "d": "Go"
+      },
+      "answer": "a",
+      "category": "Science",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What is 100 divided by 4?",
+      "options": {
+        "a": "20",
+        "b": "25",
+        "c": "30",
+        "d": "40"
+      },
+      "answer": "b",
+      "category": "Math",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the chemical symbol for gold?",
+      "options": {
+        "a": "Au",
+        "b": "Ag",
+        "c": "Gd",
+        "d": "Go"
+      },
+      "answer": "a",
+      "category": "Science",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What is the chemical symbol for gold?",
+      "options": {
+        "a": "Au",
+        "b": "Ag",
+        "c": "Gd",
+        "d": "Go"
+      },
+      "answer": "a",
+      "category": "Science",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What is the powerhouse of the cell?",
+      "options": {
+        "a": "Nucleus",
+        "b": "Mitochondria",
+        "c": "Ribosome",
+        "d": "Chloroplast"
+      },
+      "answer": "b",
+      "category": "Science",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What is the square root of 81?",
+      "options": {
+        "a": "7",
+        "b": "8",
+        "c": "9",
+        "d": "10"
+      },
+      "answer": "c",
+      "category": "Math",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What is 15% of 200?",
+      "options": {
+        "a": "30",
+        "b": "25",
+        "c": "35",
+        "d": "40"
+      },
+      "answer": "a",
+      "category": "Math",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Which artist painted water lilies?",
+      "options": {
+        "a": "Monet",
+        "b": "Manet",
+        "c": "Matisse",
+        "d": "Modigliani"
+      },
+      "answer": "a",
+      "category": "Art",
+      "difficulty": "easy"
+    },
+    {
+      "question": "'The Scream' was painted by?",
+      "options": {
+        "a": "Munch",
+        "b": "Monet",
+        "c": "Da Vinci",
+        "d": "C\u00e9zanne"
+      },
+      "answer": "a",
+      "category": "Art",
+      "difficulty": "hard"
+    }
+  ]
+}
+
