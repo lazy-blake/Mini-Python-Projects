@@ -1,8 +1,3 @@
-Here is your complete and enhanced `README.md` – fully copy-paste ready ✅
-
----
-
-````markdown
 # 🐍 Mini Python Projects
 
 [![GitHub Stars](https://img.shields.io/github/stars/lazy-blake/Mini-Python-Projects?style=social)](https://github.com/lazy-blake/Mini-Python-Projects/stargazers)
