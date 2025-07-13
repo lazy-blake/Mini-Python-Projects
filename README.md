@@ -11,13 +11,13 @@ A growing collection of beginner-friendly **Python mini-projects** that help you
 
 ## 📂 Projects Included
 
-| Project | Description | Preview |
-|--------|-------------|---------|
-| 🎰 **Blackjack** | Play the classic card game in the terminal | *(Coming Soon)* |
-| 🔐 **Password Generator** | Generate strong random passwords | *(Coming Soon)* |
-| 🎯 **Guess the Number** | Guess a number selected by the computer | *(Coming Soon)* |
-| 📅 **Leap Year Checker** | Check if a given year is a leap year | *(Coming Soon)* |
-| 🧮 **Calculator** | Perform basic arithmetic operations | *(Coming Soon)* |
+| Project | Description |
+|--------|-------------|
+| 🎰 **Blackjack** | Play the classic card game in the terminal | 
+| 🔐 **Password Generator** | Generate strong random passwords |
+| 🎯 **Guess the Number** | Guess a number selected by the computer |
+| 📅 **Leap Year Checker** | Check if a given year is a leap year |
+| 🧮 **Calculator** | Perform basic arithmetic operations |
 ---
 
 ## 🚀 Getting Started
@@ -80,14 +80,4 @@ A passionate learner exploring Python, automation, and creative tech.
 ## 🙌 Support
 
 If this helped you in your learning journey, consider following me or checking out my future blog (coming soon)!
-
-```
-
----
-
-Let me know if you'd like:
-
-- A custom GitHub **profile README**
-- Social/contact links section (Twitter, blog, etc.)
-- Auto-generated `assets/` preview templates for each project
 ```
