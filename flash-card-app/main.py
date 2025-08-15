@@ -6,11 +6,11 @@ BACKGROUND_COLOR = "#B1DDC6"
 # --------------------all the app-functions--------------------#
 try:
     data = pandas.read_csv(
-        "C:/Users/akash/OneDrive/Documents/Python/Projects/flash-card-app/data/french_words_tolearn.csv"
+        "C:/data file path/flash-card-app/data/french_words_tolearn.csv"
     )
 except FileNotFoundError:
     data = pandas.read_csv(
-        "C:/Users/akash/OneDrive/Documents/Python/Projects/flash-card-app/data/french_words.csv"
+        "C:/data file path/flash-card-app/data/french_words.csv"
     )
 
 french_word = random.choice(data.French.to_list())
@@ -42,7 +42,7 @@ def right():
 
     new_data = pandas.DataFrame(to_learn)
     new_data.to_csv(
-        "C:/Users/akash/OneDrive/Documents/Python/Projects/flash-card-app/data/french_words_tolearn.csv",
+        "C:/data file path/flash-card-app/data/french_words_tolearn.csv",
         index=False,
     )
 
@@ -77,10 +77,10 @@ window.config(padx=50, pady=50, bg=BACKGROUND_COLOR)
 # NOTE: creating cards
 canvas = Canvas(width=800, height=526)
 card_photo = PhotoImage(
-    file="C:/Users/akash/OneDrive/Documents/Python/Projects/flash-card-app/images/card_front.png"
+    file="C:/Gui image path/flash-card-app/images/card_front.png"
 )
 flip_card_image = PhotoImage(
-    file="C:/Users/akash/OneDrive/Documents/Python/Projects/flash-card-app/images/card_back.png"
+    file="C:/Gui image path/flash-card-app/images/card_back.png"
 )
 first_image = canvas.create_image(400, 263, image=card_photo)
 canvas.config(bg=BACKGROUND_COLOR, highlightthickness=0)
@@ -88,10 +88,10 @@ canvas.grid(row=0, column=0, columnspan=2)
 
 # NOTE: creating the buttons
 right_arrow_image = PhotoImage(
-    file="C:/Users/akash/OneDrive/Documents/Python/Projects/flash-card-app/images/right.png"
+    file="C:/Gui image path/flash-card-app/images/right.png"
 )
 wrong_arrow_image = PhotoImage(
-    file="C:/Users/akash/OneDrive/Documents/Python/Projects/flash-card-app/images/wrong.png"
+    file="C:/Gui image path/flash-card-app/images/wrong.png"
 )
 
 right_button = Button(image=right_arrow_image, highlightthickness=0, command=right)
