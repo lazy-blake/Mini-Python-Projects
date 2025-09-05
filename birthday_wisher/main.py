@@ -6,7 +6,7 @@ import smtplib
 
 
 data = pandas.read_csv(
-    "C:/Users/akash/OneDrive/Documents/Python/Projects/birthday_wisher/birthdays.csv"
+    "data file path/birthday_wisher/birthdays.csv"
 )
 
 birthday_dic = data.to_dict(orient="records")
@@ -23,12 +23,12 @@ for i in birthday_dic:
         # NOTE: choosing a random letter from a dictionary of letters
         random_letter = random.choice(
             os.listdir(
-                "C:/Users/akash/OneDrive/Documents/Python/Projects/birthday_wisher/letter_templates/"
+                "letters dir path/birthday_wisher/letter_templates/"
             )
         )
         # NOTE: openning that random letter
         with open(
-            f"C:/Users/akash/OneDrive/Documents/Python/Projects/birthday_wisher/letter_templates/{random_letter}",
+            f"letter path/birthday_wisher/letter_templates/{random_letter}",
             "r",
         ) as letter_templates:
             letter = letter_templates.read()
