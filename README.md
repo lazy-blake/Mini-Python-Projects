@@ -18,6 +18,7 @@ A growing collection of beginner-friendly **Python mini-projects** that help you
 | 🎯 **Guess the Number** | Guess a number selected by the computer |
 | 📅 **Leap Year Checker** | Check if a given year is a leap year |
 | 🧮 **Calculator** | Perform basic arithmetic operations |
+| 🧮 **Music: Time machine** | Create a playlist on your spotify acc from the date you provide (song release date or which ever year you wanna go back to|
 ---
 
 ## 🚀 Getting Started
