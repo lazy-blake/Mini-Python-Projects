@@ -1,10 +1,16 @@
+import os
 import time
 
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 
+user_data_dir = os.path.join(os.getcwd(), "chrome_profile")
+
 driver_options = webdriver.ChromeOptions()
 driver_options.add_experimental_option("detach", True)
+driver_options.add_argument(
+    f"--user-data-dir={user_data_dir}",
+)
 
 driver = webdriver.Chrome(options=driver_options)
 driver.get("https://ozh.github.io/cookieclicker/")
