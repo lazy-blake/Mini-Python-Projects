@@ -10,7 +10,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 
 load_dotenv()
 
-URL = "https://appbrewery.github.io/gym/"
+URL = os.getenv("LINK")
 EMAIL = os.getenv("USER")
 PASSWORD = os.getenv("PASS")
 RETRIES = 10
