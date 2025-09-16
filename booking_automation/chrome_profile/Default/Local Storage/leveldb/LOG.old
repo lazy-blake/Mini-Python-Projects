@@ -1,0 +1,4 @@
+2025/09/16-22:00:10.559 ca4 Reusing MANIFEST C:\Users\akash\OneDrive\Documents\Python\Projects\booking_automation\chrome_profile\Default\Local Storage\leveldb/MANIFEST-000001
+2025/09/16-22:00:10.563 ca4 Recovering log #3
+2025/09/16-22:00:10.563 ca4 (ignoring error) C:\Users\akash\OneDrive\Documents\Python\Projects\booking_automation\chrome_profile\Default\Local Storage\leveldb/000003.log: dropping 1474 bytes; Corruption: checksum mismatch
+2025/09/16-22:00:10.564 ca4 Reusing old log C:\Users\akash\OneDrive\Documents\Python\Projects\booking_automation\chrome_profile\Default\Local Storage\leveldb/000003.log 
