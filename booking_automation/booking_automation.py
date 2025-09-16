@@ -15,7 +15,7 @@ EMAIL = os.getenv("USER")
 PASSWORD = os.getenv("PASS")
 RETRIES = 10
 
-user_data_dir = r"C:/Users/akash/OneDrive/Documents/Python/Projects/booking_automation/chrome_profile"
+user_data_dir = os.path.join(os.getcwd(), "chrome_profile")
 
 # Initialize counters
 booked_count = 0
